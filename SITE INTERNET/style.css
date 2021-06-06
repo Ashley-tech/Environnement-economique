@@ -1,0 +1,52 @@
+body {
+	color:black;
+	background-color:#336633;
+    background-attachment: fixed;
+}
+
+h1
+{
+	color: #ff0000;
+}
+
+h2
+{
+	color: white;
+}
+
+h3
+{
+	font-family: Arial, Helvetica, sans-serif;
+	color: white;
+	font-size: 100%;
+}
+
+a
+{
+	font-size : 175%;
+	color: #ff9900;
+}
+
+h4
+{
+	color: yellow;
+	font-size: 135%;
+}
+
+h5
+{
+	color: yellow;
+	font-size: 125%;
+}
+
+h6
+{
+	color: #00ff00;
+	font-size: 140%;
+}
+
+h7
+{
+	color: white;
+	font-size: 135%;
+}
